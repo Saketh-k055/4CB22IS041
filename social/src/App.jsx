@@ -1,8 +1,8 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import FeedPage from './pages/FeedPage';
-import TopUsersPage from './pages/TopUsersPage';
-import TrendingPostsPage from './pages/TrendingPostsPage';
-import Navbar from './components/Navbar';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import FeedPage from "./pages/FeedPage";
+import TopUsersPage from "./pages/TopUsersPage";
+import TrendingPostsPage from "./pages/TrendingPostsPage";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
